@@ -9,6 +9,9 @@
 /[Bb]uilds/
 /[Ll]ogs/
 /[Uu]ser[Ss]ettings/
+/Far-Flung-v2/Library/
+/Far-Flung-v2/Logs/
+/Far-Flung-v2/Temp/
 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
